@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**charankulal/charankulal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on Computer-related projects.
+- 🌱 I’m currently learning Computer Science.
+- 👯 I’m looking to collaborate on exciting projects.
+- 🤔 I’m looking for help with enhancing my coding skills.
+- 💬 Ask me about anything related to Computer Science and technology.
+- 📫 How to reach me: charan.kulal.02@gmail.com.
+- 😄 Pronouns: He/Him.
+- ⚡ Fun fact: I love solving puzzles and can solve the Rubik's Cube in under a minute!
 
-Here are some ideas to get you started:
+![Charan's GitHub stats](https://github-readme-stats.vercel.app/api?username=charankulal&show_icons=true&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charankulal&hide_progress=false)
+
