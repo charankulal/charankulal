@@ -13,6 +13,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charankulal&hide_progress=false)
 
-![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
+# HackerRank
+
+![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) 
+### Profile : https://www.hackerrank.com/charankulal0241
 
 ![Screenshot 2023-08-01 210630](https://github.com/charankulal/charankulal/assets/78293787/c597f6d0-d5aa-49fc-bbf3-1655cebcc29d)
