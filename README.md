@@ -13,6 +13,8 @@
 
 ![Charan's GitHub stats](https://github-readme-stats.vercel.app/api?username=charankulal&show_icons=true&theme=dark)
 
+## Top Used Languages
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charankulal&hide_progress=false)
 ## Achievements
 ![image](https://github.com/charankulal/charankulal/assets/78293787/a85fb58e-425d-4da7-8d9e-7296e68c5a7c)
