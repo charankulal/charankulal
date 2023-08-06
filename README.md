@@ -44,7 +44,7 @@
 
 ![Badge](https://github-readme-stats.vercel.app/api/wakatime?username=charankulal&theme=gruvbox)
 
-<img src="" />  
+
 
 ## Top Languages 🏎️
 
