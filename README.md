@@ -9,6 +9,8 @@
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I love solving puzzles and can solve the Rubik's Cube in under a minute!
 
+## Stats
+
 ![Charan's GitHub stats](https://github-readme-stats.vercel.app/api?username=charankulal&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charankulal&hide_progress=false)
