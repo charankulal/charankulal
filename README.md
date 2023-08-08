@@ -52,7 +52,7 @@
 
 ![Badge](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=charankulal&theme=nord_dark)
 
-![Badge](https://github-readme-stats.vercel.app/api/wakatime?username=charankulal&theme=gruvbox)
+[![Charan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=charankulal)](https://github.com/charankulal/github-readme-stats)
 
 
 
