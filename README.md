@@ -150,6 +150,9 @@
 <a href="https://github.com/charankulal/readme-components">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=flask&svgfill=659b60">
 </a>
+<a href="https://github.com/charankulal/readme-components">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=jinja&svgfill=659b60">
+</a>
  
 </p>
 
