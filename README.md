@@ -91,6 +91,7 @@
 </a>
 <a href="https://github.com/charankulal/readme-components">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=express.js&animation=spin&svgfill=15d8fe">  
+
  </a>
  <a href="https://github.com/charankulal/readme-components">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=css3&animation=spin&svgfill=15d8fe">  
@@ -110,9 +111,14 @@
 <a href="https://github.com/charankulal/readme-components">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgfill=659b60">
 </a>
+
  <a href="https://github.com/charankulal/readme-components">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=hackerrank&svgfill=659b60">
 </a>
+<a href="https://github.com/charankulal/readme-components">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=stackoverflow&svgfill=659b60">
+</a>
+
 <a href="https://github.com/charankulal/readme-components">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=androidstudio&svgfill=659b60">
 </a>
@@ -135,6 +141,47 @@
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=flask&svgfill=659b60">
 </a>
  
+</p>
+
+## Popular Repositories
+
+<p>
+<a href="https://github.com/charankulal/HackerRank-Solutions">
+ <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=HackerRank-Solutions"></a>
+
+ <a href="https://github.com/charankulal/Newszy-News-at-your-finger-tips">
+ <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=Newszy-News-at-your-finger-tips"></a>
+  <a href="https://github.com/charankulal/Hotel-Management-System-using-Java-swings">
+ <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=Hotel-Management-System-using-Java-swings"></a>
+
+  <a href="https://github.com/charankulal/ATM-Simulation-System-using-java-swings">
+ <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=ATM-Simulation-System-using-java-swings"></a>
+
+  <a href="https://github.com/charankulal/BinaryTreeOperation-CG">
+ <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=BinaryTreeOperation-CG"></a>
+
+  <a href="https://github.com/charankulal/UltraPlayer">
+ <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=UltraPlayer"></a>
+
+  <a href="https://github.com/charankulal/Travel-Management-System">
+ <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=Travel-Management-System"></a>
+
+  <a href="https://github.com/charankulal/Image-Format-Converter-using-Flask">
+ <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=Image-Format-Converter-using-Flask"></a>
+
+  <a href="https://github.com/charankulal/News-Aggregator-using-Django">
+ <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=News-Aggregator-using-Django"></a>
+
+  <a href="https://github.com/charankulal/Dance-Academy-Website">
+ <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=Dance-Academy-Website"></a>
+
+  <a href="https://github.com/charankulal/Covid-19-cases-visualizer-on-worldmap">
+ <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=Covid-19-cases-visualizer-on-worldmap"></a>
+
+  <a href="https://github.com/charankulal/Courier-Management-System-using-PHP-and-SQL">
+ <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=Courier-Management-System-using-PHP-and-SQL"></a>
+
+
 </p>
 
 
