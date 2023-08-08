@@ -11,10 +11,6 @@
 
 📚 Let's connect and code together! Feel free to explore my repositories and don't forget to star ⭐️ your favorites! Happy coding! 😊
 
-## Intern At
-[![Experience component](https://readme-components.vercel.app/api?component=experience&company=persistent)](https://github.com/harish-sethuraman/readme-components)
-
-
 
    <p align="center">
       <a href="https://github.com/charankulal?tab=followers">
@@ -24,6 +20,12 @@
          <a href="https://github.com/charankulal?tab=repositories&sort=stargazers">
          <img alt="Total contributions" title="Total Contribution" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?style=for-the-badge&logo=graph&logoColor=fff&color=blue&label=Total%20Contributions&query=%24.totalContributions&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DCharankulal%26type%3Djson"/></a>
 </p>
+
+
+## Intern At
+[![Experience component](https://readme-components.vercel.app/api?component=experience&company=persistent)](https://github.com/harish-sethuraman/readme-components)
+
+
 
 ##
 
