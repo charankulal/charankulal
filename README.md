@@ -38,7 +38,7 @@
 
 
 
-##
+## Streak
 
 
 
@@ -46,13 +46,20 @@
    [![GitHub Streak](https://streak-stats.demolab.com/?user=charankulal&theme=highcontrast)](https://git.io/streak-stats)
 
 
-## Stats 📈
 
-![Charan's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=charankulal&theme=zenburn)
+##  Stats 📈 
 
-![Badge](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=charankulal&theme=nord_dark)
+               
+   ![Charan's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=charankulal&theme=zenburn)
 
-[![Charan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=charankulal)](https://github.com/charankulal/github-readme-stats)
+   ![Badge](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=charankulal&theme=nord_dark)
+
+   [![Charan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=charankulal)](https://github.com/charankulal/github-readme-stats)
+
+
+
+
+
 
 
 
