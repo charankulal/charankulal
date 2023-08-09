@@ -45,9 +45,10 @@
 
    [![GitHub Streak](https://streak-stats.demolab.com/?user=charankulal&theme=highcontrast)](https://git.io/streak-stats)
 
+##
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Algerian&duration=500&pause=700&color=ffffff&background=234C1300&width=435&lines=My+Github+Stats+📈)](https://git.io/typing-svg)
 
-##  Stats 📈 
 
                
    ![Charan's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=charankulal&theme=zenburn)
