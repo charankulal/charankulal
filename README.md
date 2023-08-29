@@ -131,7 +131,7 @@ Connect with me here on LinkedIn or reach out via email: [your@email.com]. Let's
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&animation=spin&svgfill=15d8fe">  
  </a>
 <a href="https://github.com/charankulal/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=c&svgfill=2d79c7">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=c&animation=spin&svgfill=2d79c7">
 </a>
   <a href="https://github.com/charankulal/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=cplusplus&svgfill=8ed5fa">
