@@ -69,6 +69,11 @@ Connect with me here on LinkedIn or reach out via email: [your@email.com]. Let's
    ![Badge](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=charankulal&theme=nord_dark)
 
    [![Charan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=charankulal)](https://github.com/charankulal/github-readme-stats)
+   
+   <img
+  src="https://github.com/charankulal/HackerRank-Solutions/blob/master/images/stat.svg"
+  alt="Alternative Text"
+/>
 
 
 
