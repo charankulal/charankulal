@@ -19,7 +19,7 @@
 
 Feel free to explore my GitHub repositories to get a glimpse of my coding style, problem-solving approach, and dedication to producing high-quality software. Let's connect and discuss how we can collaborate on exciting projects or share insights on the latest developments in the tech world.
 
-Connect with me here on LinkedIn or reach out via email: [your@email.com]. Let's build the future through code! 💻🌐
+Connect with me here on LinkedIn or reach out via email: [charan.kulal.02@gmail.com]. Let's build the future through code! 💻🌐
 
 📚 Let's connect and code together! Feel free to explore my repositories and don't forget to star ⭐️ your favorites! Happy coding! 😊
 
