@@ -73,7 +73,7 @@ Connect with me here on LinkedIn or reach out via email: [charan.kulal.02@gmail.
 
 ## Top Languages 🏎️
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charankulal&hide_progress=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charankulal&hide_progress=false&PAT_1)
 
 ## Achievements
 <p align="center">
