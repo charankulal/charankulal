@@ -56,7 +56,7 @@ Connect with me here on LinkedIn or reach out via email: [charan.kulal.02@gmail.
 
 
 
-   [![GitHub Streak](https://streak-stats.demolab.com/?user=charankulal&theme=highcontrast)](https://git.io/streak-stats)
+   [![GitHub Streak](https://streak-stats.demolab.com/?user=charankulal)](https://git.io/streak-stats)
 
 ##
 
