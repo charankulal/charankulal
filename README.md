@@ -30,7 +30,7 @@ Connect with me here on LinkedIn or reach out via email: [charan.kulal.02@gmail.
       <a href="https://github.com/charankulal?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/charankulal?style=for-the-badge&color=55960c&labelColor=488207&logo=star"/></a>
          <a href="https://github.com/charankulal?tab=repositories&sort=stargazers">
-         <img alt="Total contributions" title="Total Contribution" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?style=for-the-badge&logo=graph&logoColor=fff&color=blue&label=Total%20Contributions&query=%24.totalContributions&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DCharankulal%26type%3Djson"/>
+         <img alt="Total contributions" title="Total Contribution" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?style=for-the-badge&logo=graph&logoColor=fff&color=blue&label=Total%20Contributions&query=%24.totalContributions&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3Dcharankulal%26type%3Djson"/>
          </a>
 </p>     
 <p align="center">
