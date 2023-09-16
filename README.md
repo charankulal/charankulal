@@ -23,8 +23,12 @@ Connect with me here on LinkedIn or reach out via email: [charan.kulal.02@gmail.
 
 📚 Let's connect and code together! Feel free to explore my repositories and don't forget to star ⭐️ your favorites! Happy coding! 😊
 
+## My Skills
 
-   <p align="center">
+![My Skills](https://skillicons.dev/icons?i=java,py,git,github,c,cpp,bootstrap,spring,react,nodejs,html,css,javascript,django,flask,eclipse,maven,gradle,vscode)
+
+
+   <p align="left">
       <a href="https://github.com/charankulal?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/charankulal?style=for-the-badge&color=236ad3&labelColor=1155ba&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/charankulal?tab=repositories&sort=stargazers">
@@ -81,7 +85,8 @@ Connect with me here on LinkedIn or reach out via email: [charan.kulal.02@gmail.
 <img src="https://github.com/charankulal/charankulal/assets/78293787/cce5be39-04f6-4c2e-9d11-50a696007610" width="100px"/>
 </p>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=charankulal)
+![Trophies](https://github-profile-trophy.vercel.app/?username=charankulal&theme=onedark)
+
 
 
 
