@@ -1,6 +1,8 @@
 # 	🔱 Charan K
 **`Software Craftsman (Developer/Debugger/Creator)`**
 
+![Theoretically Productive](https://img.shields.io/badge/THEORETICALLY-PRODUCTIVE-blueviolet)
+
 🌟 Welcome to my GitHub! 🌟
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&duration=1000&pause=500&color=F7291D&background=234C1300&width=435&lines=Hey%2C+I+Am+Charan+K;Welcome+to+My+GITHUB+%E2%98%A2%EF%B8%8F)](https://git.io/typing-svg)
@@ -47,7 +49,6 @@ Connect with me here on LinkedIn or reach out via email: [charan.kulal.02@gmail.
 </p>
 
 
-
 ## Experience
 ### Intern At
 [![Experience component](https://readme-components.vercel.app/api?component=experience&company=persistent)](https://github.com/harish-sethuraman/readme-components)
@@ -56,10 +57,7 @@ Connect with me here on LinkedIn or reach out via email: [charan.kulal.02@gmail.
 
 
 ## Streak
-
-
-
-
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=charankulal&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)
    [![GitHub Streak](https://streak-stats.demolab.com/?user=charankulal)](https://git.io/streak-stats)
 
 ##
