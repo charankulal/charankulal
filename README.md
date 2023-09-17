@@ -64,12 +64,6 @@ Connect with me here on LinkedIn or reach out via email: [charan.kulal.02@gmail.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Algerian&duration=500&pause=700&color=ffffff&background=234C1300&width=435&lines=My+Github+Stats+📈)](https://git.io/typing-svg)
 
-
-               
-   ![Charan's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=charankulal&theme=zenburn)
-
-   ![Badge](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=charankulal&theme=nord_dark)
-
    [![Charan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=charankulal)](https://github.com/charankulal/github-readme-stats)
 
 
