@@ -7,7 +7,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&duration=1000&pause=500&color=F7291D&background=234C1300&width=435&lines=Hey%2C+I+Am+Charan+K;Welcome+to+My+GITHUB+%E2%98%A2%EF%B8%8F)](https://git.io/typing-svg)
 
-👋 Hey there! I'm  a passionate software crafter and tech enthusiast. 💻 My mission is to create elegant solutions that make the world a better place one line of code at a time. 🚀
+👋 Hey there! I'm  a passionate software crafter and tech-enthusiast. 💻 My mission is to create elegant solutions that make the world a better place one line of code at a time. 🚀
 
 🎨 Whether it's crafting stunning web applications, diving deep into data analytics, or exploring the wonders of machine learning, I'm always hungry for new challenges. 🌌 I believe in the power of collaboration and open-source, so you'll find a collection of diverse projects here. Join me on this exciting journey of constant learning and innovation!
 
