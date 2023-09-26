@@ -13,7 +13,7 @@
 
 🚀 **Projects:** Each repository represents a unique endeavor, reflecting my dedication to continuous learning and growth. From web applications and mobile apps to utility scripts and machine learning experiments, my work encompasses a diverse range of technologies and domains.
 
-🔧 **Tech Stack:** My projects are built using a variety of programming languages and frameworks, including but not limited to Python, JavaScript, React, Node.js, Flask, and TensorFlow. I enjoy exploring new tools and technologies to ensure I'm always at the forefront of innovation.
+🔧 **Tech Stack:** My projects are built using a variety of programming languages and frameworks, including but not limited to Java, Spring, Python, JavaScript, React, Django, Node.js, Flask. I enjoy exploring new tools and technologies to ensure I'm always at the forefront of innovation.
 
 📚 **Learning Journey:** The commit history tells a story of the evolution of my skills and the iterative nature of software development. I embrace challenges and am not afraid to dive into complex problems, leveraging research, collaboration, and determination to find effective solutions.
 
