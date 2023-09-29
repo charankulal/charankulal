@@ -75,18 +75,42 @@ Connect with me here on LinkedIn or reach out via email: [charan.kulal.02@gmail.
 <p align="center">
 <img src="https://github.com/charankulal/charankulal/assets/78293787/a85fb58e-425d-4da7-8d9e-7296e68c5a7c" width="100px"/>
 <img src="https://github.com/charankulal/charankulal/assets/78293787/cce5be39-04f6-4c2e-9d11-50a696007610" width="100px"/>
+<img src="https://github.com/charankulal/charankulal/assets/78293787/f63ff918-aa7c-44e7-b54b-8c919c5a9a46" width="100px"/>
+<img src="https://github.com/charankulal/charankulal/assets/78293787/7dea4c85-e0df-401d-a5a8-9c4f9e3a2b9b" width="100px"/>
+
 </p>
+
+
+
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=charankulal&theme=onedark)
 
 
 
 
-
 # HackerRank ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) 
+
 ### Profile : https://www.hackerrank.com/charankulal0241
 
 ![Screenshot 2023-08-01 210630](https://github.com/charankulal/charankulal/assets/78293787/c597f6d0-d5aa-49fc-bbf3-1655cebcc29d)
+
+### Certificates
+
+<p align="center">
+<img src="https://github.com/charankulal/charankulal/assets/78293787/801feab1-45ab-4b2b-86ac-c8ee906b4b3a" width="300px" height="200px"/>
+<img src="https://github.com/charankulal/charankulal/assets/78293787/adf4c182-dbb3-48c5-9c79-e7a37d8745f6" width="300px" height="200px"/>
+<img src="https://github.com/charankulal/charankulal/assets/78293787/f660e25a-47a0-44b7-82a5-0ea5d164804f" width="300px" height="200px"/>
+<img src="https://github.com/charankulal/charankulal/assets/78293787/62a07856-39cf-4cbb-bde9-2cbe9789806c" width="300px" height="200px"/>
+<img src="https://github.com/charankulal/charankulal/assets/78293787/fd24c376-b49e-4260-b210-28c2379f4259" width="300px" height="200px"/>
+<img src="https://github.com/charankulal/charankulal/assets/78293787/998e119a-440f-491e-af15-31a65bc051f1" width="300px" height="200px"/>
+<img src="https://github.com/charankulal/charankulal/assets/78293787/689c67eb-1352-4655-9020-66c21cec05c9" width="300px" height="200px"/>
+<img src="https://github.com/charankulal/charankulal/assets/78293787/ec49d7b4-18d7-4f97-be55-991f806c3804" width="300px" height="200px"/>
+<img src="https://github.com/charankulal/charankulal/assets/78293787/c36803ca-edfb-4ebc-9f9e-f0cc7970f1b1" width="300px" height="200px"/>
+<img src="https://github.com/charankulal/charankulal/assets/78293787/c6046b1c-ef45-4ceb-af64-a6fd2bb6e33a" width="300px" height="200px"/>
+<img src="https://github.com/charankulal/charankulal/assets/78293787/39519334-53f7-4f0b-b576-9529a740b654" width="300px" height="200px"/>
+<img src="https://github.com/charankulal/charankulal/assets/78293787/5befedc0-4256-4cf2-b39e-9e5660db7867" width="300px" height="200px"/>
+
+</p>
 
 
 
