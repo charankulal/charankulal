@@ -80,13 +80,7 @@ Connect with me here on LinkedIn or reach out via email: [charan.kulal.02@gmail.
 
 </p>
 
-
-
-
 ![Trophies](https://github-profile-trophy.vercel.app/?username=charankulal&theme=onedark)
-
-
-
 
 # HackerRank ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) 
 
