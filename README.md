@@ -196,6 +196,9 @@ Connect with me here on LinkedIn or reach out via email: [charan.kulal.02@gmail.
 
  <a href="https://github.com/charankulal/Newszy-News-aggregator-mobile-app">
  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=Newszy-News-aggregator-mobile-app"></a>
+
+  <a href="https://github.com/charankulal/Notes-Android ">
+ <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=Notes-Android"></a>
 </p>
 
 
