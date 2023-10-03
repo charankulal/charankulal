@@ -189,45 +189,83 @@ Connect with me here on LinkedIn or reach out via email: [charan.kulal.02@gmail.
  
 </p>
 
-## Popular Repositories
-
+## Android Projects
 <p>
-<a href="https://github.com/charankulal/HackerRank-Solutions">
- <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=HackerRank-Solutions"></a>
+<a href="https://github.com/charankulal/UltraPlayer">
+ <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=UltraPlayer"></a>
 
- <a href="https://github.com/charankulal/Newszy-News-at-your-finger-tips">
- <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=Newszy-News-at-your-finger-tips"></a>
+ <a href="https://github.com/charankulal/Newszy-News-aggregator-mobile-app">
+ <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=Newszy-News-aggregator-mobile-app"></a>
+</p>
+
+
+
+## Java-Swings Projects:
+<p>
   <a href="https://github.com/charankulal/Hotel-Management-System-using-Java-swings">
  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=Hotel-Management-System-using-Java-swings"></a>
 
-  <a href="https://github.com/charankulal/ATM-Simulation-System-using-java-swings">
+   <a href="https://github.com/charankulal/ATM-Simulation-System-using-java-swings">
  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=ATM-Simulation-System-using-java-swings"></a>
 
-  <a href="https://github.com/charankulal/BinaryTreeOperation-CG">
- <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=BinaryTreeOperation-CG"></a>
-
-  <a href="https://github.com/charankulal/UltraPlayer">
- <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=UltraPlayer"></a>
-
-  <a href="https://github.com/charankulal/Travel-Management-System">
+   <a href="https://github.com/charankulal/Travel-Management-System">
  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=Travel-Management-System"></a>
 
+</p>
+
+## Web Development Projects
+### React.js Projects
+
+ <p>
+
+ <a href="https://github.com/charankulal/Newszy-News-at-your-finger-tips">
+ <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=Newszy-News-at-your-finger-tips"></a>
+ <a href="https://github.com/charankulal/iNotes">
+ <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=iNotes"></a>
+
+ <a href="https://github.com/charankulal/myTasks-A-Task-Manager">
+ <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=myTasks-A-Task-Manager"></a>
+
+ <a href="https://github.com/charankulal/Simple-Calculator-Using-ReactJs">
+ <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=Simple-Calculator-Using-ReactJs"></a>
+
+ </p>
+
+ ### Python-Flask Projects
   <a href="https://github.com/charankulal/Image-Format-Converter-using-Flask">
  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=Image-Format-Converter-using-Flask"></a>
 
+  ### Python-Django Projects
   <a href="https://github.com/charankulal/News-Aggregator-using-Django">
  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=News-Aggregator-using-Django"></a>
 
-  <a href="https://github.com/charankulal/Dance-Academy-Website">
+ ### PHP Projects
+   <a href="https://github.com/charankulal/Courier-Management-System-using-PHP-and-SQL">
+ <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=Courier-Management-System-using-PHP-and-SQL"></a>
+
+ ### Basic Projects:
+ <a href="https://github.com/charankulal/Dance-Academy-Website">
  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=Dance-Academy-Website"></a>
 
   <a href="https://github.com/charankulal/Covid-19-cases-visualizer-on-worldmap">
  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=Covid-19-cases-visualizer-on-worldmap"></a>
 
-  <a href="https://github.com/charankulal/Courier-Management-System-using-PHP-and-SQL">
- <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=Courier-Management-System-using-PHP-and-SQL"></a>
+  <a href="https://github.com/charankulal/Currency-Converter-Web-App">
+ <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=Currency-Converter-Web-App"></a>
 
+ 
 
+## HackerRank & Leetcode Solutions
+<p>
+<a href="https://github.com/charankulal/HackerRank-Solutions">
+ <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=HackerRank-Solutions"></a>
+<a href="https://github.com/charankulal/Leetcode-Solutions">
+ <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=Leetcode-Solutions"></a>
+ 
 </p>
 
+## OpenGL Projects
+  <a href="https://github.com/charankulal/BinaryTreeOperation-CG">
+ <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=BinaryTreeOperation-CG"></a>
 
+  
