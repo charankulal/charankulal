@@ -189,6 +189,8 @@ Connect with me here on LinkedIn or reach out via email: [charan.kulal.02@gmail.
  
 </p>
 
+# Projects
+
 ## Android Projects
 <p>
 <a href="https://github.com/charankulal/UltraPlayer">
