@@ -234,6 +234,10 @@ Connect with me here on LinkedIn or reach out via email: [charan.kulal.02@gmail.
 
  </p>
 
+ ### Machine Learning projects
+ <a href="https://github.com/charankulal/Chicken-disease-prediction">
+ <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=Chicken-disease-prediction"></a>
+
  ### Python-Flask Projects
   <a href="https://github.com/charankulal/Image-Format-Converter-using-Flask">
  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=Image-Format-Converter-using-Flask"></a>
