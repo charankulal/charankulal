@@ -11,7 +11,7 @@
 
 🎨 Whether it's crafting stunning web applications, diving deep into data analytics, or exploring the wonders of machine learning, I'm always hungry for new challenges. 🌌 I believe in the power of collaboration and open-source, so you'll find a collection of diverse projects here. Join me on this exciting journey of constant learning and innovation!
 
-🚀 **Projects:** Each repository represents a unique endeavor, reflecting my dedication to continuous learning and growth. From web applications and mobile apps to utility scripts and machine learning experiments, my work encompasses a diverse range of technologies and domains.
+🚀 **<a href="https://github.com/charankulal#Projects">Projects:</a>** Each repository represents a unique endeavor, reflecting my dedication to continuous learning and growth. From web applications and mobile apps to utility scripts and machine learning experiments, my work encompasses a diverse range of technologies and domains.
 
 🔧 **Tech Stack:** My projects are built using a variety of programming languages and frameworks, including but not limited to Java, Spring, Python, JavaScript, React, Django, Node.js, Flask. I enjoy exploring new tools and technologies to ensure I'm always at the forefront of innovation.
 
