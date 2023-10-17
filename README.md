@@ -29,7 +29,6 @@ Connect with me here on LinkedIn or reach out via email: [charan.kulal.02@gmail.
 
 ![My Skills](https://skillicons.dev/icons?i=java,py,git,github,c,cpp,bootstrap,spring,react,nodejs,html,css,javascript,django,flask,eclipse,maven,gradle,vscode)
 
-
    <p align="left">
       <a href="https://github.com/charankulal?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/charankulal?style=for-the-badge&color=236ad3&labelColor=1155ba&logo=person-add&label=Follow&logoColor=white"/></a>
