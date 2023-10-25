@@ -1,4 +1,4 @@
-# 	🔱 Charan K
+# 	Charan K
 **`Software Craftsman (Developer/Debugger/Creator)`**
 
 
