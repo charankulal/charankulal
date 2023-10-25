@@ -216,6 +216,9 @@ Connect with me here on LinkedIn or reach out via email: [charan.kulal.02@gmail.
    <a href="https://github.com/charankulal/Travel-Management-System">
  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=Travel-Management-System"></a>
 
+ <a href="https://github.com/charankulal/Sudoku">
+ <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=Sudoku"></a>
+
 </p>
 
 ## Web Development Projects
