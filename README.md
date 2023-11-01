@@ -170,6 +170,8 @@ Connect with me here on LinkedIn or reach out via email: [charan.kulal.02@gmail.
   ### Python-Django Projects
   <a href="https://github.com/charankulal/News-Aggregator-using-Django">
  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=News-Aggregator-using-Django"></a>
+  <a href="https://github.com/charankulal/Learning-Management-System-Django">
+ <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=Learning-Management-System-Django"></a>
 
  ### PHP Projects
    <a href="https://github.com/charankulal/Courier-Management-System-using-PHP-and-SQL">
