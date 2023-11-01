@@ -77,6 +77,9 @@ Connect with me here on LinkedIn or reach out via email: [charan.kulal.02@gmail.
 <img src="https://github.com/charankulal/charankulal/assets/78293787/cce5be39-04f6-4c2e-9d11-50a696007610" width="100px"/>
 <img src="https://github.com/charankulal/charankulal/assets/78293787/f63ff918-aa7c-44e7-b54b-8c919c5a9a46" width="100px"/>
 <img src="https://github.com/charankulal/charankulal/assets/78293787/7dea4c85-e0df-401d-a5a8-9c4f9e3a2b9b" width="100px"/>
+<img src="https://github.com/charankulal/charankulal/assets/78293787/6e5fec8c-9285-4e23-8946-8f87208c1391" width="100px"/>
+<img src="https://github.com/charankulal/charankulal/assets/78293787/acc3b5f6-1197-4185-ad3b-1002583c1889" width="100px"/>
+
 
 </p>
 
