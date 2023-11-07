@@ -82,10 +82,11 @@ Connect with me here on LinkedIn or reach out via email: [charan.kulal.02@gmail.
 <img src="https://github.com/charankulal/charankulal/assets/78293787/642fd2a6-3bc7-4dd4-9983-5194efbc9d32" width="100px"/>
 <img src="https://github.com/charankulal/charankulal/assets/78293787/9e2874b5-9964-4db2-b1f5-648c10953b71" width="100px"/>
 <img src="https://github.com/charankulal/charankulal/assets/78293787/20c8c4b6-79c5-4c2a-a1d8-97e1362a411a" width="100px"/>
-
+   
+![Trophies](https://github-profile-trophy.vercel.app/?username=charankulal&theme=onedark)
 </p>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=charankulal&theme=onedark)
+
 
 # HackerRank ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) 
 
