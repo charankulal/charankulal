@@ -3,7 +3,7 @@
 
 ![Theoretically Productive](https://img.shields.io/badge/THEORETICALLY-PRODUCTIVE-blueviolet)
 
-🌟 Welcome to my GitHub! 🌟
+🌟 Welcome to my GitHub!!🌟
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&duration=1000&pause=500&color=F7291D&background=234C1300&width=435&lines=Hey%2C+I+Am+Charan+K;Welcome+to+My+GITHUB+%E2%98%A2%EF%B8%8F)](https://git.io/typing-svg)
 
