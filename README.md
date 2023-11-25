@@ -128,7 +128,7 @@ Connect with me here on LinkedIn or reach out via email: [charan.kulal.02@gmail.
 ## Computer Vision Projects
 <p>
    <a href="https://github.com/charankulal/Hand-Tracking-Module ">
- <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=Hand-Tracking-Module"></a>
+ <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=Hand-Tracking-Module"/></a>
 </p>
 
 ## Java-Swings Projects:
