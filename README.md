@@ -196,7 +196,12 @@ Connect with me here on LinkedIn or reach out via email: [charan.kulal.02@gmail.
  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=Currency-Converter-Web-App"></a>
 
 ## Json PowerDB Projects:
+ <a href="https://github.com/charankulal/JPDB-Micro-Project">
+ <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=JPDB-Micro-Project"></a>
+ <a href="https://github.com/charankulal/JSON-Power-DB-Project">
+ <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=JSON-Power-DB-Project"></a>
 
+ 
 
 ## HackerRank & Leetcode Solutions
 <p>
