@@ -195,7 +195,8 @@ Connect with me here on LinkedIn or reach out via email: [charan.kulal.02@gmail.
   <a href="https://github.com/charankulal/Currency-Converter-Web-App">
  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=Currency-Converter-Web-App"></a>
 
- 
+## Json PowerDB Projects:
+
 
 ## HackerRank & Leetcode Solutions
 <p>
