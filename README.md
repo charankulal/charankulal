@@ -66,13 +66,12 @@ Connect with me here on LinkedIn or my portfolio page[<a href="https://charankul
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Algerian&duration=500&pause=700&color=ffffff&background=234C1300&width=435&lines=My+Github+Stats+📈)](https://git.io/typing-svg)
 
-<p align="center">
+<div style="display: flex; flex-direction: row; vertical-align: top;">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=charankulal" width="40%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charankulal&hide_progress=false&PAT_1" width="40%">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=charankulal" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charankulal&hide_progress=false&PAT_1" width="50%">
 
-
-</p>
+</div>
 
    
 
