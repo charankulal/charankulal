@@ -66,12 +66,14 @@ Connect with me here on LinkedIn or my portfolio page[<a href="https://charankul
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Algerian&duration=500&pause=700&color=ffffff&background=234C1300&width=435&lines=My+Github+Stats+📈)](https://git.io/typing-svg)
 
-   [![Charan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=charankulal)](https://github.com/charankulal/github-readme-stats)
+<p align="center">
 
-
-## Top Languages 🏎️
+[![Charan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=charankulal)](https://github.com/charankulal/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charankulal&hide_progress=false&PAT_1)
+</p>
+
+   
 
 ## Achievements
 <p align="center">
@@ -83,83 +85,3 @@ Connect with me here on LinkedIn or my portfolio page[<a href="https://charankul
 </p>
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=charankulal&theme=onedark)
-
-
-## Things I use on a daily basis</summary>
-
-
-<p align="left">  
-<a href="https://github.com/charankulal/readme-components">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java&svgfill=659b60">
-</a>
-<a href="https://github.com/charankulal/readme-components">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
- </a>
-   <a href="https://github.com/charankulal/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=2d79c7">
-</a>
-  <a href="https://github.com/charankulal/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=spring&svgfill=8ed5fa">
-</a>
- <a href="https://github.com/charankulal/readme-components">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
-</a>
-<a href="https://github.com/charankulal/readme-components">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=express.js&animation=spin&svgfill=15d8fe">  
-
- </a>
- <a href="https://github.com/charankulal/readme-components">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=css3&animation=spin&svgfill=15d8fe">  
- </a>
- <a href="https://github.com/charankulal/readme-components">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&animation=spin&svgfill=15d8fe">  
- </a>
-<a href="https://github.com/charankulal/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=c&animation=spin&svgfill=2d79c7">
-</a>
-  <a href="https://github.com/charankulal/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=cplusplus&svgfill=8ed5fa">
-</a>
-<a href="https://github.com/charankulal/readme-components">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=659b60">
-</a>
-<a href="https://github.com/charankulal/readme-components">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgfill=659b60">
-</a>
-
- <a href="https://github.com/charankulal/readme-components">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=hackerrank&svgfill=659b60">
-</a>
-<a href="https://github.com/charankulal/readme-components">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=stackoverflow&svgfill=659b60">
-</a>
-
-<a href="https://github.com/charankulal/readme-components">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=androidstudio&svgfill=659b60">
-</a>
-<a href="https://github.com/charankulal/readme-components">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=visualstudiocode&svgfill=659b60">
-</a>
-<a href="https://github.com/charankulal/readme-components">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github&svgfill=659b60">
-</a>
-<a href="https://github.com/charankulal/readme-components">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=linux&svgfill=659b60">
-</a>
-<a href="https://github.com/charankulal/readme-components">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&svgfill=659b60">
-</a>
-<a href="https://github.com/charankulal/readme-components">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=django&svgfill=659b60">
-</a>
-<a href="https://github.com/charankulal/readme-components">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=flask&svgfill=659b60">
-</a>
-<a href="https://github.com/charankulal/readme-components">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=jinja&svgfill=659b60">
-</a>
-<a href="https://github.com/charankulal/readme-components">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=leetcode&svgfill=659b60">
-</a>
- 
-</p>
