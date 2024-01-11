@@ -59,7 +59,7 @@ Connect with me here on LinkedIn or my portfolio page[<a href="https://charankul
 
 
 ## Streak
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=charankulal&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)
+![Charans's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=charankulal&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)
    [![GitHub Streak](https://streak-stats.demolab.com/?user=charankulal)](https://git.io/streak-stats)
 
 ##
@@ -68,9 +68,10 @@ Connect with me here on LinkedIn or my portfolio page[<a href="https://charankul
 
 <p align="center">
 
-[![Charan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=charankulal)](https://github.com/charankulal/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=charankulal" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charankulal&hide_progress=false&PAT_1" width="50%">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charankulal&hide_progress=false&PAT_1)
+
 </p>
 
    
