@@ -1,9 +1,9 @@
-# 	Charan K
+# 	<a href="https://charankulal.github.io/Portfolio/">🔱 Charan K</a>
 **`Software Craftsman (Developer/Debugger/Creator)`**
 
 ![Theoretically Productive](https://img.shields.io/badge/THEORETICALLY-PRODUCTIVE-blueviolet)
 
-🌟 Welcome to my GitHub!!🌟
+🌟 Welcome to my GitHub! 🌟
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&duration=1000&pause=500&color=F7291D&background=234C1300&width=435&lines=Hey%2C+I+Am+Charan+K;Welcome+to+My+GITHUB+%E2%98%A2%EF%B8%8F)](https://git.io/typing-svg)
 
@@ -11,7 +11,7 @@
 
 🎨 Whether it's crafting stunning web applications, diving deep into data analytics, or exploring the wonders of machine learning, I'm always hungry for new challenges. 🌌 I believe in the power of collaboration and open-source, so you'll find a collection of diverse projects here. Join me on this exciting journey of constant learning and innovation!
 
-🚀 **<a href="https://github.com/charankulal#Projects">Projects:</a>** Each repository represents a unique endeavor, reflecting my dedication to continuous learning and growth. From web applications and mobile apps to utility scripts and machine learning experiments, my work encompasses a diverse range of technologies and domains.
+🚀 **Projects:** Each repository represents a unique endeavor, reflecting my dedication to continuous learning and growth. From web applications and mobile apps to utility scripts and machine learning experiments, my work encompasses a diverse range of technologies and domains.
 
 🔧 **Tech Stack:** My projects are built using a variety of programming languages and frameworks, including but not limited to Java, Spring, Python, JavaScript, React, Django, Node.js, Flask. I enjoy exploring new tools and technologies to ensure I'm always at the forefront of innovation.
 
@@ -21,13 +21,16 @@
 
 Feel free to explore my GitHub repositories to get a glimpse of my coding style, problem-solving approach, and dedication to producing high-quality software. Let's connect and discuss how we can collaborate on exciting projects or share insights on the latest developments in the tech world.
 
-Connect with me here on LinkedIn or reach out via email: [charan.kulal.02@gmail.com]. Let's build the future through code! 💻🌐
+Connect with me here on LinkedIn or my portfolio page[<a href="https://charankulal.github.io/Portfolio">Charan K</a>] or reach out via email: [charan.kulal.02@gmail.com]. Let's build the future through code! 💻🌐
 
 📚 Let's connect and code together! Feel free to explore my repositories and don't forget to star ⭐️ your favorites! Happy coding! 😊
 
+## Checkout my <a href="https://charankulal.github.io/Portfolio" type="button">Portfolio</a> for details
+
 ## My Skills
 
-![My Skills](https://skillicons.dev/icons?i=java,py,git,github,c,cpp,bootstrap,spring,react,nodejs,html,css,javascript,django,flask,eclipse,maven,gradle,vscode,idea,androidstudio,linux,firebase,angular,hibernate,md,mysql,mongodb,postman,powershell,stackoverflow,)
+![My Skills](https://skillicons.dev/icons?i=java,py,git,github,c,cpp,bootstrap,spring,react,nodejs,html,css,javascript,django,flask,eclipse,maven,gradle,vscode)
+
 
    <p align="left">
       <a href="https://github.com/charankulal?tab=followers">
@@ -76,131 +79,87 @@ Connect with me here on LinkedIn or reach out via email: [charan.kulal.02@gmail.
 <img src="https://github.com/charankulal/charankulal/assets/78293787/cce5be39-04f6-4c2e-9d11-50a696007610" width="100px"/>
 <img src="https://github.com/charankulal/charankulal/assets/78293787/f63ff918-aa7c-44e7-b54b-8c919c5a9a46" width="100px"/>
 <img src="https://github.com/charankulal/charankulal/assets/78293787/7dea4c85-e0df-401d-a5a8-9c4f9e3a2b9b" width="100px"/>
-<img src="https://github.com/charankulal/charankulal/assets/78293787/6e5fec8c-9285-4e23-8946-8f87208c1391" width="100px"/>
-<img src="https://github.com/charankulal/charankulal/assets/78293787/acc3b5f6-1197-4185-ad3b-1002583c1889" width="100px"/>
-<img src="https://github.com/charankulal/charankulal/assets/78293787/642fd2a6-3bc7-4dd4-9983-5194efbc9d32" width="100px"/>
-<img src="https://github.com/charankulal/charankulal/assets/78293787/9e2874b5-9964-4db2-b1f5-648c10953b71" width="100px"/>
-<img src="https://github.com/charankulal/charankulal/assets/78293787/20c8c4b6-79c5-4c2a-a1d8-97e1362a411a" width="100px"/>
-   
+
+</p>
+
 ![Trophies](https://github-profile-trophy.vercel.app/?username=charankulal&theme=onedark)
-</p>
 
 
-
-# HackerRank ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) 
-
-### Profile : https://www.hackerrank.com/charankulal0241
-
-![Screenshot 2023-08-01 210630](https://github.com/charankulal/charankulal/assets/78293787/c597f6d0-d5aa-49fc-bbf3-1655cebcc29d)
-
-### Checkout My certificates 
-<a href="./CERTIFICATES.md">Certificates</a>
+## Things I use on a daily basis</summary>
 
 
+<p align="left">  
+<a href="https://github.com/charankulal/readme-components">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java&svgfill=659b60">
+</a>
+<a href="https://github.com/charankulal/readme-components">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
+ </a>
+   <a href="https://github.com/charankulal/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=2d79c7">
+</a>
+  <a href="https://github.com/charankulal/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=spring&svgfill=8ed5fa">
+</a>
+ <a href="https://github.com/charankulal/readme-components">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
+</a>
+<a href="https://github.com/charankulal/readme-components">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=express.js&animation=spin&svgfill=15d8fe">  
 
-# Projects
+ </a>
+ <a href="https://github.com/charankulal/readme-components">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=css3&animation=spin&svgfill=15d8fe">  
+ </a>
+ <a href="https://github.com/charankulal/readme-components">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&animation=spin&svgfill=15d8fe">  
+ </a>
+<a href="https://github.com/charankulal/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=c&animation=spin&svgfill=2d79c7">
+</a>
+  <a href="https://github.com/charankulal/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=cplusplus&svgfill=8ed5fa">
+</a>
+<a href="https://github.com/charankulal/readme-components">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=659b60">
+</a>
+<a href="https://github.com/charankulal/readme-components">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgfill=659b60">
+</a>
 
-## Android Projects
-<p>
-<a href="https://github.com/charankulal/UltraPlayer">
- <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=UltraPlayer"></a>
+ <a href="https://github.com/charankulal/readme-components">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=hackerrank&svgfill=659b60">
+</a>
+<a href="https://github.com/charankulal/readme-components">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=stackoverflow&svgfill=659b60">
+</a>
 
- <a href="https://github.com/charankulal/Newszy-News-aggregator-mobile-app">
- <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=Newszy-News-aggregator-mobile-app"></a>
-
-  <a href="https://github.com/charankulal/Notes-Android ">
- <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=Notes-Android"></a>
-</p>
-
-## Computer Vision Projects
-<p>
-   <a href="https://github.com/charankulal/Hand-Tracking-Module ">
- <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=Hand-Tracking-Module"/></a>
-</p>
-
-## Java-Swings Projects:
-<p>
-  <a href="https://github.com/charankulal/Hotel-Management-System-using-Java-swings">
- <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=Hotel-Management-System-using-Java-swings"></a>
-
-   <a href="https://github.com/charankulal/ATM-Simulation-System-using-java-swings">
- <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=ATM-Simulation-System-using-java-swings"></a>
-
-   <a href="https://github.com/charankulal/Travel-Management-System">
- <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=Travel-Management-System"></a>
-
- <a href="https://github.com/charankulal/Sudoku">
- <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=Sudoku"></a>
-
-</p>
-
-## Web Development Projects
-### React.js Projects
-
- <p>
-
- <a href="https://github.com/charankulal/Newszy-News-at-your-finger-tips">
- <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=Newszy-News-at-your-finger-tips"></a>
- <a href="https://github.com/charankulal/iNotes">
- <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=iNotes"></a>
-
- <a href="https://github.com/charankulal/myTasks-A-Task-Manager">
- <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=myTasks-A-Task-Manager"></a>
-
- <a href="https://github.com/charankulal/Simple-Calculator-Using-ReactJs">
- <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=Simple-Calculator-Using-ReactJs"></a>
-
- </p>
-
- ### Machine Learning projects
- <a href="https://github.com/charankulal/Chicken-disease-prediction">
- <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=Chicken-disease-prediction"></a>
-
- ### Python-Flask Projects
-  <a href="https://github.com/charankulal/Image-Format-Converter-using-Flask">
- <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=Image-Format-Converter-using-Flask"></a>
-
-  ### Python-Django Projects
-  <a href="https://github.com/charankulal/News-Aggregator-using-Django">
- <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=News-Aggregator-using-Django"></a>
-  <a href="https://github.com/charankulal/Learning-Management-System-Django">
- <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=Learning-Management-System-Django"></a>
-  <a href="https://github.com/charankulal/StudentSync">
- <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=StudentSync"></a>
-
- ### PHP Projects
-   <a href="https://github.com/charankulal/Courier-Management-System-using-PHP-and-SQL">
- <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=Courier-Management-System-using-PHP-and-SQL"></a>
-
- ### Basic Projects:
- <a href="https://github.com/charankulal/Dance-Academy-Website">
- <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=Dance-Academy-Website"></a>
-
-  <a href="https://github.com/charankulal/Covid-19-cases-visualizer-on-worldmap">
- <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=Covid-19-cases-visualizer-on-worldmap"></a>
-
-  <a href="https://github.com/charankulal/Currency-Converter-Web-App">
- <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=Currency-Converter-Web-App"></a>
-
-## Json PowerDB Projects:
- <a href="https://github.com/charankulal/JPDB-Micro-Project">
- <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=JPDB-Micro-Project"></a>
- <a href="https://github.com/charankulal/JSON-Power-DB-Project">
- <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=JSON-Power-DB-Project"></a>
-
- 
-
-## HackerRank & Leetcode Solutions
-<p>
-<a href="https://github.com/charankulal/HackerRank-Solutions">
- <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=HackerRank-Solutions"></a>
-<a href="https://github.com/charankulal/Leetcode-Solutions">
- <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=Leetcode-Solutions"></a>
+<a href="https://github.com/charankulal/readme-components">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=androidstudio&svgfill=659b60">
+</a>
+<a href="https://github.com/charankulal/readme-components">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=visualstudiocode&svgfill=659b60">
+</a>
+<a href="https://github.com/charankulal/readme-components">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github&svgfill=659b60">
+</a>
+<a href="https://github.com/charankulal/readme-components">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=linux&svgfill=659b60">
+</a>
+<a href="https://github.com/charankulal/readme-components">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&svgfill=659b60">
+</a>
+<a href="https://github.com/charankulal/readme-components">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=django&svgfill=659b60">
+</a>
+<a href="https://github.com/charankulal/readme-components">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=flask&svgfill=659b60">
+</a>
+<a href="https://github.com/charankulal/readme-components">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=jinja&svgfill=659b60">
+</a>
+<a href="https://github.com/charankulal/readme-components">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=leetcode&svgfill=659b60">
+</a>
  
 </p>
-
-## OpenGL Projects
-  <a href="https://github.com/charankulal/BinaryTreeOperation-CG">
- <img  src="https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=BinaryTreeOperation-CG"></a>
-
-  
