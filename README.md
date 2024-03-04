@@ -47,7 +47,7 @@ Connect with me here on LinkedIn or my portfolio page[<a href="https://charankul
 [![Medium Badge](https://img.shields.io/badge/-charan-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https:https://medium.com/@geekycherryin)](https://medium.com/@geekycherryin)
 [![Gmail Badge](https://img.shields.io/badge/-charan.kulal.02@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:charan.kulal.02@gmail.com)](mailto:charan.kulal.02@gmail.com)
 [![Hackerrank](https://img.shields.io/badge/-charan-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/charankulal0241/)](https://www.hackerrank.com/charankulal0241)
-![Visitor Badge](https://visitor-badge.feriirawann.repl.co?username=charankulal&repo=charankulal)
+<img src="https://profile-counter.glitch.me/charankulal/count.svg?"  />
 </p>
 
 
@@ -88,3 +88,13 @@ Connect with me here on LinkedIn or my portfolio page[<a href="https://charankul
 </p>
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=charankulal&theme=onedark)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=charankulal&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+
+---
+
