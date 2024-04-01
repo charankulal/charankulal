@@ -1,6 +1,7 @@
 # 	<a href="https://charankulal.github.io/Portfolio/">🔱 Charan K</a>
 **`Software Craftsman (Developer/Debugger/Creator)`**
 
+
 ![Theoretically Productive](https://img.shields.io/badge/THEORETICALLY-PRODUCTIVE-blueviolet)
 
 🌟 Welcome to my GitHub! 🌟
