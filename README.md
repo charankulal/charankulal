@@ -28,9 +28,15 @@ Connect with me here on LinkedIn or my portfolio page[<a href="https://charankul
 
 ## Checkout my <a href="https://charankulal.github.io/Portfolio" type="button">Portfolio</a> for details
 
+## Explore My Digital Footprint
+
+1.  <a href="https://charankulal.github.io/Portfolio" type="button">Portfolio</a>
+2.   <a href="https://charankulal.github.io/FairFollow" type="button">FairFollow</a>
+3.   <a href="https://solutionsbycherry.blogspot.com/" type="button">BlogSpot-Blogger</a>
+
 ## My Skills
 
-![My Skills](https://skillicons.dev/icons?i=java,py,git,github,c,cpp,bootstrap,spring,react,nodejs,html,css,javascript,django,flask,eclipse,maven,gradle,vscode)
+![My Skills](https://skillicons.dev/icons?i=java,py,typescript,html,css,javascript,git,github,c,cpp,bootstrap,spring,react,next,nodejs,django,flask,eclipse,maven,gradle,vscode)
 
 
    <p align="left">
@@ -93,8 +99,6 @@ Connect with me here on LinkedIn or my portfolio page[<a href="https://charankul
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=charankulal&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 
 ---
