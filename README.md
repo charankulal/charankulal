@@ -39,22 +39,14 @@ Connect with me here on LinkedIn or my portfolio page[<a href="https://charankul
 ![My Skills](https://skillicons.dev/icons?i=java,py,typescript,html,css,javascript,git,github,c,cpp,bootstrap,spring,react,next,nodejs,django,flask,eclipse,maven,gradle,vscode)
 
 
-   <p align="left">
-      <a href="https://github.com/charankulal?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/charankulal?style=for-the-badge&color=236ad3&labelColor=1155ba&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/charankulal?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/charankulal?style=for-the-badge&color=55960c&labelColor=488207&logo=star"/></a>
-         <a href="https://github.com/charankulal?tab=repositories&sort=stargazers">
-         <img alt="Total contributions" title="Total Contribution" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?style=for-the-badge&logo=graph&logoColor=fff&color=blue&label=Total%20Contributions&query=%24.totalContributions&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3Dcharankulal%26type%3Djson"/>
-         </a>
-</p>     
+ 
 <p align="center">
 
    [![Linkedin Badge](https://img.shields.io/badge/-charankulal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/)](https://www.linkedin.com/in/charan-kulal/)
 [![Medium Badge](https://img.shields.io/badge/-charan-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https:https://medium.com/@geekycherryin)](https://medium.com/@geekycherryin)
 [![Gmail Badge](https://img.shields.io/badge/-charan.kulal.02@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:charan.kulal.02@gmail.com)](mailto:charan.kulal.02@gmail.com)
 [![Hackerrank](https://img.shields.io/badge/-charan-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/charankulal0241/)](https://www.hackerrank.com/charankulal0241)
-<img src="https://profile-counter.glitch.me/charankulal/count.svg?"  />
+
 </p>
 
 
