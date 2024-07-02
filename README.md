@@ -36,7 +36,7 @@ Connect with me here on LinkedIn or my portfolio page[<a href="https://charankul
 
 ## My Skills
 
-![My Skills](https://skillicons.dev/icons?i=java,py,typescript,html,css,javascript,git,github,c,cpp,bootstrap,spring,react,next,nodejs,django,flask,eclipse,maven,gradle,vscode)
+![My Skills](https://skillicons.dev/icons?i=java,py,javascript,typescript,html,css,c,cpp,bootstrap,spring,angular,tailwind,react,next,nodejs,django,mysql,postgresql,mongodb,maven,gradle,git,github,vscode,idea)
 
 
  
