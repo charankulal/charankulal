@@ -54,7 +54,7 @@ Connect with me here on LinkedIn or my portfolio page[<a href="https://charankul
 [![Experience component](https://readme-components.vercel.app/api?component=experience&company=persistent)](https://github.com/harish-sethuraman/readme-components)
 [![Experience component](https://readme-components.vercel.app/api?component=experience&company=vraio)](https://github.com/harish-sethuraman/readme-components)
 ### Currently working
-[![Experience component](https://readme-components.vercel.app/api?component=experience&company=egdk)](https://github.com/harish-sethuraman/readme-components)
+ ![experience component](https://readme-components.vercel.app/api?component=experience&company=egdk&role=Junior%20QA%20Tester&duration=12m&location=Mangaluru)
 
 
 ## Streak
