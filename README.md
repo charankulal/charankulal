@@ -1,97 +1,169 @@
-# 	<a href="https://charankulal.github.io/Portfolio/">Charan</a>
-**`Software Craftsman (Developer/Debugger/Creator)`**
+<div align="center">
 
-![Theoretically Productive](https://img.shields.io/badge/THEORETICALLY-PRODUCTIVE-blueviolet) [![wakatime](https://wakatime.com/badge/user/79de3fe8-e456-4821-bdee-dd57a4f84211.svg)](https://wakatime.com/@79de3fe8-e456-4821-bdee-dd57a4f84211)
+# 👋 Hi, I'm [Charan K](https://charankulal.github.io/Portfolio/)
 
-🌟 Welcome to my GitHub! 🌟
+### Junior QA Tester @ EG India | ISTQB® Certified
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&duration=1000&pause=500&color=F7291D&background=234C1300&width=435&lines=Hey%2C+I+Am+Charan+K;Welcome+to+My+GITHUB+%E2%98%A2%EF%B8%8F)](https://git.io/typing-svg)
+[![Portfolio](https://img.shields.io/badge/Portfolio-25b79f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://charankulal.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charan-kulal/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@geekycherryin)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:charan.kulal.02@gmail.com)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/charankulal0241)
 
-👋 Hey there! I'm  a passionate software crafter and tech-enthusiast. 💻 My mission is to create elegant solutions that make the world a better place in one line of code at a time. 🚀
+[![wakatime](https://wakatime.com/badge/user/79de3fe8-e456-4821-bdee-dd57a4f84211.svg)](https://wakatime.com/@79de3fe8-e456-4821-bdee-dd57a4f84211)
 
-🎨 Whether it's crafting stunning web applications, diving deep into data analytics, or exploring the wonders of machine learning, I'm always hungry for new challenges. 🌌 I believe in the power of collaboration and open-source, so you'll find a collection of diverse projects here. Join me on this exciting journey of constant learning and innovation!
-
-🚀 **Projects:** Each repository represents a unique endeavor, reflecting my dedication to continuous learning and growth. From web applications and mobile apps to utility scripts and machine learning experiments, my work encompasses a diverse range of technologies and domains.
-
-🔧 **Tech Stack:** My projects are built using a variety of programming languages and frameworks, including but not limited to Java, Spring, Python, JavaScript, React, Django, Node.js, Flask. I enjoy exploring new tools and technologies to ensure I'm always at the forefront of innovation.
-
-📚 **Learning Journey:** The commit history tells a story of the evolution of my skills and the iterative nature of software development. I embrace challenges and am not afraid to dive into complex problems, leveraging research, collaboration, and determination to find effective solutions.
-
-🌟 **Open Source:** I believe in the power of open source collaboration. Many of my repositories are open for contributions, inviting fellow developers to collaborate, learn, and grow together.
-
-Feel free to explore my GitHub repositories to get a glimpse of my coding style, problem-solving approach, and dedication to producing high-quality software. Let's connect and discuss how we can collaborate on exciting projects or share insights on the latest developments in the tech world.
-
-Connect with me here on LinkedIn or my portfolio page[<a href="https://charankulal.github.io/Portfolio">Charan K</a>] or reach out via email: [charan.kulal.02@gmail.com]. Let's build the future through code! 💻🌐
-
-📚 Let's connect and code together! Feel free to explore my repositories and don't forget to star ⭐️ your favorites! Happy coding! 😊
-
-## Checkout my <a href="https://charankulal.github.io/Portfolio" type="button">Portfolio</a> for details
-
-## Explore My Digital Footprint
-
-1.  <a href="https://charankulal.github.io/Portfolio" type="button">Portfolio</a>
-2.   <a href="https://charankulal.github.io/FairFollow" type="button">FairFollow</a>
-3.   <a href="https://solutionsbycherry.blogspot.com/" type="button">BlogSpot-Blogger</a>
-
-## My Skills
-
-![My Skills](https://skillicons.dev/icons?i=java,py,javascript,typescript,html,css,c,cpp,bootstrap,spring,angular,tailwind,react,next,nodejs,django,mysql,postgresql,mongodb,maven,gradle,git,github,vscode,idea)
-
-
- 
-<p align="center">
-
-   [![Linkedin Badge](https://img.shields.io/badge/-charankulal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/)](https://www.linkedin.com/in/charan-kulal/)
-[![Medium Badge](https://img.shields.io/badge/-charan-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https:https://medium.com/@geekycherryin)](https://medium.com/@geekycherryin)
-[![Gmail Badge](https://img.shields.io/badge/-charan.kulal.02@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:charan.kulal.02@gmail.com)](mailto:charan.kulal.02@gmail.com)
-[![Hackerrank](https://img.shields.io/badge/-charan-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/charankulal0241/)](https://www.hackerrank.com/charankulal0241)
-
-</p>
-
-
-## Experience
-### Completed Internship At
-[![Experience component](https://readme-components.vercel.app/api?component=experience&company=persistent)](https://github.com/harish-sethuraman/readme-components)
-[![Experience component](https://readme-components.vercel.app/api?component=experience&company=vraio)](https://github.com/harish-sethuraman/readme-components)
-### Currently working
- ![experience component](https://readme-components.vercel.app/api?component=experience&company=egdk&role=Junior%20QA%20Tester&duration=12m&location=Mangaluru)
-
-
-## Streak
-![Charans's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=charankulal&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)
-   [![GitHub Streak](https://streak-stats.demolab.com/?user=charankulal)](https://git.io/streak-stats)
-
-##
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Algerian&duration=500&pause=700&color=ffffff&background=234C1300&width=435&lines=My+Github+Stats+📈)](https://git.io/typing-svg)
-
-<p align="center">
-
-   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=charankulal" height="550" width="45%" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charankulal&hide_progress=false&PAT_1" height="550" width="45%" />
-
-
-</p>
-
-
-   
-
-## Achievements
-<p align="center">
-<img src="https://github.com/charankulal/charankulal/assets/78293787/a85fb58e-425d-4da7-8d9e-7296e68c5a7c" width="100px"/>
-<img src="https://github.com/charankulal/charankulal/assets/78293787/cce5be39-04f6-4c2e-9d11-50a696007610" width="100px"/>
-<img src="https://github.com/charankulal/charankulal/assets/78293787/f63ff918-aa7c-44e7-b54b-8c919c5a9a46" width="100px"/>
-<img src="https://github.com/charankulal/charankulal/assets/78293787/7dea4c85-e0df-401d-a5a8-9c4f9e3a2b9b" width="100px"/>
-
-</p>
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=charankulal&theme=onedark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=charankulal&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
+</div>
 
 ---
 
+## 🚀 About Me
+
+```typescript
+const charan = {
+    title: "Software Engineer",
+    role: "Junior QA Tester",
+    location: "Mangaluru, India",
+    currentFocus: ["Quality Assurance", "Full-Stack Development", "AI/ML"],
+    certifications: ["ISTQB® Certified Tester"],
+    lifePhilosophy: "Building elegant solutions, one line of code at a time"
+};
+```
+
+Passionate software engineer with expertise in quality assurance and full-stack development. I specialize in creating robust, scalable applications while ensuring top-tier code quality through comprehensive testing strategies. Currently contributing to enterprise-level projects at EG India, focusing on delivering high-quality software solutions.
+
+---
+
+## 💼 Professional Experience
+
+**Junior QA Tester** @ [EG India](https://www.eg.dk/) *(Current)*
+- 🔍 Implementing comprehensive test strategies for enterprise applications
+- 🛠️ Developing automated testing frameworks
+- 📊 Ensuring software quality through rigorous testing methodologies
+
+**Previous Experience:**
+- 🔸 Software Development Intern @ Persistent Systems
+- 🔸 Development Intern @ Vraio Technologies
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+### Database & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=charankulal&theme=tokyonight)
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=charankulal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charankulal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+
+</div>
+
+---
+
+## 🏆 Achievements & Certifications
+
+<div align="center">
+
+**🎓 ISTQB® Certified Tester** | **💻 68+ Public Repositories** | **⭐ Open Source Contributor**
+
+</div>
+
+---
+
+## 🔝 Top Contributed Repositories
+
+![Top Contributed](https://github-contributor-stats.vercel.app/api?username=charankulal&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack |
+|---------|-------------|-----------|
+| [Portfolio Website](https://charankulal.github.io/Portfolio/) | Personal portfolio showcasing projects and skills | HTML, CSS, JavaScript |
+| [FairFollow](https://charankulal.github.io/FairFollow) | Social media management platform | Full-Stack |
+| Check out my [68+ repositories](https://github.com/charankulal?tab=repositories) for more! | | |
+
+</div>
+
+---
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- Check out my technical articles on [Medium](https://medium.com/@geekycherryin)
+- Solutions and tutorials on my [BlogSpot](https://solutionsbycherry.blogspot.com/)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 💡 What I'm Currently Working On
+
+- 🔭 Developing automated testing frameworks for enterprise applications
+- 🌱 Expanding expertise in AI/ML and cloud technologies
+- 👯 Open to collaborating on innovative open-source projects
+- 💬 Ask me about: **QA Testing, Full-Stack Development, Django, React, Flutter**
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+I'm always interested in connecting with fellow developers and tech enthusiasts! Whether you want to discuss technology, collaborate on a project, or just say hi, feel free to reach out.
+
+**📧 Email:** [charan.kulal.02@gmail.com](mailto:charan.kulal.02@gmail.com)
+
+**🌐 Portfolio:** [charankulal.github.io/Portfolio](https://charankulal.github.io/Portfolio/)
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=charankulal&label=Profile%20Views&color=25b79f&style=flat-square" alt="Profile Views" />
+
+*"Code is like humor. When you have to explain it, it's bad." - Cory House*
+
+⭐️ From [charankulal](https://github.com/charankulal)
+
+</div>
