@@ -123,7 +123,7 @@ Passionate software engineer with expertise in quality assurance and full-stack 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
 | [Portfolio Website](https://charankulal.github.io/Portfolio/) | Personal portfolio showcasing projects and skills | HTML, CSS, JavaScript |
-| [FairFollow](https://charankulal.github.io/FairFollow) | Social media management platform | Full-Stack |
+| [FairFollow](https://charankulal.github.io/FairFollow/) | Social media management platform | Full-Stack |
 | Check out my [68+ repositories](https://github.com/charankulal?tab=repositories) for more! | | |
 
 </div>
