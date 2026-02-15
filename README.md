@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm [Charan K](https://charankulal.github.io/Portfolio/)
 
-### Junior QA Tester @ EG India | ISTQB® Certified
+### Junior Software Developer | Python Django | ISTQB® Certified
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-25b79f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://charankulal.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charan-kulal/)
@@ -18,29 +18,37 @@
 
 ## 🚀 About Me
 
-```typescript
-const charan = {
-    title: "Software Engineer",
-    role: "Junior QA Tester",
-    location: "Mangaluru, India",
-    currentFocus: ["Quality Assurance", "Full-Stack Development", "AI/ML"],
-    certifications: ["ISTQB® Certified Tester"],
-    lifePhilosophy: "Building elegant solutions, one line of code at a time"
-};
+```python
+charan = {
+    "role": "Junior Software Developer",
+    "location": "Mangaluru, India",
+    "current_focus": ["Python", "Django", "REST APIs", "Full-Stack Development"],
+    "expertise": ["Backend Development", "Database Design", "API Development"],
+    "certifications": ["ISTQB® Certified Tester"],
+    "life_philosophy": "Building elegant solutions, one line of code at a time"
+}
 ```
 
-Passionate software engineer with expertise in quality assurance and full-stack development. I specialize in creating robust, scalable applications while ensuring top-tier code quality through comprehensive testing strategies. Currently contributing to enterprise-level projects at EG India, focusing on delivering high-quality software solutions.
+Passionate software developer specializing in Python Django backend development. I focus on building robust, scalable web applications with clean architecture and efficient database design. With a strong foundation in quality assurance and testing methodologies, I ensure every line of code meets the highest standards of reliability and maintainability.
 
 ---
 
 ## 💼 Professional Experience
 
-**Junior QA Tester** @ [EG India](https://www.eg.dk/) *(Current)*
-- 🔍 Implementing comprehensive test strategies for enterprise applications
-- 🛠️ Developing automated testing frameworks
-- 📊 Ensuring software quality through rigorous testing methodologies
+**Junior Software Developer** @ [EG India](https://egsoftware.com/dk) *(Current)*
+- 🐍 Developing scalable backend applications using Python and Django framework
+- 🚀 Building RESTful APIs with Django REST Framework for modern web applications
+- 🎨 Creating dynamic, interactive frontend interfaces using Vanilla JavaScript and HTMX
+- 🗄️ Designing and optimizing database schemas with PostgreSQL
+- 🔧 Implementing clean architecture patterns and best practices
+- 🧪 Writing comprehensive unit tests and integration tests
+
 
 **Previous Experience:**
+- 🔸 Junior QA Tester @ [EG India](https://egsoftware.com/dk)
+  - Worked on implementation of automated testing frameworks using Pytest-Selenium, and Playwright
+  - Developed comprehensive test strategies covering Manual and UI automation testing
+  - Ensured software quality through rigorous testing methodologies
 - 🔸 Software Development Intern @ Persistent Systems
 - 🔸 Development Intern @ Vraio Technologies
 
@@ -111,7 +119,7 @@ Passionate software engineer with expertise in quality assurance and full-stack 
 
 <div align="center">
 
-**🎓 ISTQB® Certified Tester** | **💻 68+ Public Repositories** | **⭐ Open Source Contributor**
+**🐍 Python Django Specialist** | **🎓 ISTQB® Certified Tester** | **💻 68+ Public Repositories** | **⭐ Open Source Contributor**
 
 </div>
 
@@ -130,6 +138,7 @@ Passionate software engineer with expertise in quality assurance and full-stack 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
 | [Portfolio Website](https://charankulal.github.io/Portfolio/) | Personal portfolio showcasing projects and skills | HTML, CSS, JavaScript |
+| Django REST API Projects | Building scalable backend systems with authentication, CRUD operations | Python, Django, DRF, PostgreSQL |
 | Check out my [68+ repositories](https://github.com/charankulal?tab=repositories) for more! | | |
 
 </div>
@@ -147,10 +156,10 @@ Passionate software engineer with expertise in quality assurance and full-stack 
 
 ## 💡 What I'm Currently Working On
 
-- 🔭 Developing automated testing frameworks for enterprise applications
-- 🌱 Expanding expertise in AI/ML and cloud technologies
-- 👯 Open to collaborating on innovative open-source projects
-- 💬 Ask me about: **QA Testing, Full-Stack Development, Django, React, Flutter**
+- 🔭 Building scalable web applications with Python Django and Django REST Framework
+- 🌱 Expanding expertise in microservices architecture, Docker, and cloud technologies
+- 🚀 Contributing to open-source Django projects and Python communities
+- 💬 Ask me about: **Python, Django, REST APIs, PostgreSQL, Backend Architecture, Testing**
 
 ---
 
